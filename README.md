@@ -20,17 +20,20 @@ To launch and test the application, start by:
 
 2. Navigate to the `wilson_note_taker` directory:
 
-   ```bash
+
+   ```
    cd wilson_note_taker
    ```
 
 3. Open the project in any of your code editors, whether Android Studio or VS Code.
 
+
 4. Connect to your emulator or a physical device.
+
 
 5. Open the terminal and run:
 
-   ```bash
+   ```
    flutter pub get
    ```
 
@@ -38,7 +41,7 @@ To launch and test the application, start by:
 
 6. Lastly, if you are using VS Code, open the terminal and run:
 
-   ```bash
+   ```
    flutter run
    ```
 
@@ -46,9 +49,7 @@ To launch and test the application, start by:
 
 With all the above steps completed, you should be able to log in with your email address and perform any CRUD operations in the mobile app.
 
-```
 
----
 
 
 
