@@ -54,5 +54,8 @@ With all the above steps completed, you should be able to log in with your email
 ![flutter_structure](https://github.com/user-attachments/assets/a5ea818a-7657-4e25-8d44-10e53f055161)
 
 
+![image](https://github.com/user-attachments/assets/dac8c71b-fdfc-40e8-88e3-dee6aa71829b)
+
+
 
 
