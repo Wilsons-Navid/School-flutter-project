@@ -1,6 +1,6 @@
 # wilson_note_taker
 
-This is a note-taker project built with Flutter, with the authentication and storage handled by Firebase Authentication and Firestore. It allows:
+This is a note-taker project built with Flutter, with the authentication and storage handled by Firebase Authentication and Firestore.
 
 ## Key features are:
 
