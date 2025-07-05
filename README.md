@@ -16,7 +16,7 @@ To launch and test the application, start by:
 1. Clone this repository:
    ```bash
    git clone https://github.com/Wilsons-Navid/School-flutter-project/
-````
+
 
 2. Navigate to the `wilson_note_taker` directory:
 
