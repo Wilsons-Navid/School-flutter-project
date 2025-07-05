@@ -50,6 +50,9 @@ To launch and test the application, start by:
 With all the above steps completed, you should be able to log in with your email address and perform any CRUD operations in the mobile app.
 
 
+## Structure of the code base
+![flutter_structure](https://github.com/user-attachments/assets/a5ea818a-7657-4e25-8d44-10e53f055161)
+
 
 
 
